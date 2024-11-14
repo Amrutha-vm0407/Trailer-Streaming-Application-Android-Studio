@@ -11,14 +11,14 @@
 <h1>API used : Lollipop , Version : 5.0 , API level : 21 </h1>
 
 <h1>Design implemented :</h1>
-<img src=  width='800' height='1000'>
+<img src= https://github.com/Amrutha-vm0407/Trailer-Streaming-Application-Android-Studio/blob/main/Trailer-streaming-application-using-Android-studio-main/images/architecture.png width='800' height='1000'>
 
 <h1>Result and snapshots</h1>
 <h1>Home page</h1>
-<img src=  width='500' height='1000'>
+<img src= https://github.com/Amrutha-vm0407/Trailer-Streaming-Application-Android-Studio/blob/main/Trailer-streaming-application-using-Android-studio-main/images/Home%20page.jpg width='500' height='1000'>
 
 <h1>Trailer streaming page</h1>
-<img src= width='500' height='1000'>
+<img src=https://github.com/Amrutha-vm0407/Trailer-Streaming-Application-Android-Studio/blob/main/Trailer-streaming-application-using-Android-studio-main/images/Trailer%20viewing%20page.jpg width='500' height='1000'>
 
 
 <h1>Requirements</h1>
